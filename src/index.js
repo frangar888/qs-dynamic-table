@@ -12,7 +12,7 @@ import "./style.css";
 
 // This is the object that is ultimately returned to qlik -- this is the extension 
 
-window.define(['qlik', 'jquery'], async function(qlik, $) {
+window.define(['qlik', 'jquery','//code.jquery.com/ui/1.13.2/jquery-ui.js'], async function(qlik, $) {
 
 	const app = await qlik.currApp();
 

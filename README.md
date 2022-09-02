@@ -1,5 +1,6 @@
 # qs-custom-report
-Qlik Sense extension that allows users to create their own tables from a list of dimensions and measures
+Qlik Sense extension that allows users to create their own tables from a list of dimensions and measures.
+Forked from cjbraley project QS Dynamic Table
 
 ![Thumb](https://github.com/cjbraley/qs-custom-report/blob/master/demo/thumb.jpg)
 
